@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Steven Josh</h1>
+<h1 align="center">Hi 👋, I'm Steven Ng</h1>
 <h3 align="center">A passionate backend developer from Malaysia</h3>
 <img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Laravel,ASP.NET MVC & Mobile apps development**
+- 💬 Ask me about **Laravel,ASP.NET Core MVC & Mobile apps development**
 
 - 📫 How to reach me **arecus10155@gmail.com**
 
