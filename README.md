@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Steven!
 👨‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👨‍🎓 Studied [Software Systems Development]at the Tunku Abdul Rahman University of Management and Technology, Kuala Lumpur Malaysia<br/>
+👨‍🎓 Studied Bachelor of Information Technology (Honours) in Software Systems Development at the Tunku Abdul Rahman University of Management and Technology, Kuala Lumpur Malaysia<br/>
 📫 How to reach me arecus10155@gmail.com
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
